@@ -1,0 +1,6 @@
+Transporte: Autobús
+Número de usuarios: 1
+Tiempo estimado de llegada: 10.5 minutos
+Ruta: Universidad a Casa (10.5 km)
+Usuarios:
+ID: 23120560, Nombre: Enrique Orozco, Carrera: ITIC´S
